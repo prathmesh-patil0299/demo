@@ -1,3 +1,3 @@
 # demo
 This  is my First Repository
-Author- Prathmesh Patil
+Author- Prathmesh Patil(Git, Github)
